@@ -16,7 +16,21 @@ email: ["ypv5@cdc.gov"]
 collaborative_notes: “https://docs.google.com/document/d/1OtvipneHZhadGVtmks8Xuj6DKW61eX6Mi1hGEmQoPcI/edit?usp=sharing”
 eventbrite: null
 what3words: null
+---
+{% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
+{% comment %}
+HEADER
+
+Edit the values in the block above to be appropriate for your workshop.
+If the value is not 'true', 'false', 'null', or a number, please use
+double quotation marks around the value, unless specified otherwise.
+And run 'make workshop-check' *before* committing to make sure that changes are good.
+{% endcomment %}
+
+
+
+{% comment %}
 
 {% comment %}
 Check DC curriculum
