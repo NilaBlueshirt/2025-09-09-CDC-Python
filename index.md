@@ -1,4 +1,4 @@
-<img width="468" height="33" alt="image" src="https://github.com/user-attachments/assets/e1db6e96-8f97-48e8-be8d-2757af4d929c" />---
+---
 layout: workshop
 venue: "Centers for Disease Control and Prevention"
 address: "[online](https://carpentries.zoom.us/j/85743991552?pwd=zwTjSLbbiWYoA09BJkeyW7XmtlIabg.1)"
@@ -378,7 +378,7 @@ of code below the Schedule `<h2>` header below with
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
 {% elsif site.carpentry == "dc" %}
-{% include dc/schedule.html %}
+{% include custom-schedule.html %}  
 {% elsif site.carpentry == "lc" %}
 {% include lc/schedule.html %}
 {% elsif site.carpentry == "incubator" %}
