@@ -11,12 +11,13 @@ humantime: "9:00 am - 2:00 pm ET"
 startdate: 2025-09-09
 enddate: 2025-09-11
 instructor: ["Emily Blumenthal", "David Gerard", "Yuanxi Fu", "Nil Tianchen Mu"]
-helper: ["TBD"]
+helper: null
 email: ["ypv5@cdc.gov"]
 collaborative_notes: https://docs.google.com/document/d/1OtvipneHZhadGVtmks8Xuj6DKW61eX6Mi1hGEmQoPcI/edit?usp=sharing
 eventbrite: null
 what3words: null
 ---
+
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}
@@ -28,9 +29,6 @@ double quotation marks around the value, unless specified otherwise.
 And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
-
-
-{% comment %}
 
 {% comment %}
 Check DC curriculum
