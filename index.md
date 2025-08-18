@@ -14,7 +14,7 @@ instructor: ["Emily Blumenthal", "David Gerard", "Yuanxi Fu", "Nil Tianchen Mu"]
 helper: ["TBD"]
 email: ["ypv5@cdc.gov"]
 collaborative_notes: “https://docs.google.com/document/d/1OtvipneHZhadGVtmks8Xuj6DKW61eX6Mi1hGEmQoPcI/edit?usp=sharing”
-eventbrite: null      
+eventbrite: null
 what3words: null
 
 
